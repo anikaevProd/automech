@@ -1,0 +1,22 @@
+/* Footer */
+
+footer {
+  height: 80px;
+  background-color: #1b1b1b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 150px;
+  color: #cdcdcd;
+}
+
+.content {
+    min-height: calc(100vh - 50px);
+   }
+.footer {
+    height: 80px;
+   }
+	 
+.foot-text {
+	color: #999;
+}
